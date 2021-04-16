@@ -8,8 +8,8 @@ Python - Link
 
 
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
-<img style="border:5px solid black;"
-   img src="/images/NOAA-Capture.png"
+<img style="border:5px solid #000000"
+   src="/images/NOAA-Capture.png"
    alt="Markdown Monster icon"
    width="500"
    style="float: left; margin-right: 10px;"/>
