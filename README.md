@@ -1,7 +1,8 @@
-## Portfolio
+# Portfolio
 ---
 
 ### Python
+---
 #### Ipswich Electric Light Department 
 Python - Link
 -	Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.  Goal of identifying and changing behavior.
@@ -21,6 +22,7 @@ Python - Link
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebooks.  Extracted data using API by segmenting requests to avoid limitations.
 
 ### Tableau
+---
 #### San Francisco Fire Department Assessment
 
 <kbd>
