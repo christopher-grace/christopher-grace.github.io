@@ -1,9 +1,9 @@
-title: Christopher Grace # your name (or website title) here
-logo: "/images/Chris-Professional-Web_sm.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Christopher Grace
+logo: "/Images/Chris-Professional-Web_sm.png?raw=true"
+description: > 
   Data Analyst | Senior Mechanical Engineer
   <br><br>
   <a href="https://www.linkedin.com/in/cgrace2">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
-# your Google Analytics tracking ID here
+# Google Analytics tracking ID here
