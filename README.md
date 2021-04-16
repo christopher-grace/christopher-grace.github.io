@@ -3,15 +3,14 @@
 ---
 
 
-### Python
----
+
 #### Ipswich Electric Light Department 
+---
 Python - Link
 -	Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.  Goal of identifying and changing behavior.
 
-
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
-
+---
 <kbd>
 <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9784097b-bd56-4948-b996-e6067ff7b866/view?access_token=e1701b9f5fbc71fef0da09e1600440fa8f50ae745022fa09a7af98a3dc12c96c">
 <img src="images/NOAA-Capture.png"
@@ -26,10 +25,8 @@ Python - Link
    - Plotted data with Seaborn and Matplotlib.
    - Determined ENE and E wind directions have a positive coorelation with respect to predicted height.  A 20 mph sustained wind will cause about a 2 ft increase in sea level.
 
-### Tableau
----
 #### San Francisco Fire Department Assessment
-
+---
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment">
 <img src="images/SF-Fire-Slide-2.png"
