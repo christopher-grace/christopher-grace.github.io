@@ -11,7 +11,7 @@ Python - Link
 <img src="https://oceanodyssey.github.io/Portfolio/images/NOAA-Capture.png"
    alt="NOAA Tidal Prediction image"
    height="auto" width="500"
-   style="border-radius:50%"></a>
+   style="border-radius:5%"></a>
      
 [Link on IBM Watson](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9784097b-bd56-4948-b996-e6067ff7b866/view?access_token=e1701b9f5fbc71fef0da09e1600440fa8f50ae745022fa09a7af98a3dc12c96c)
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebooks.  Extracted data using API by segmenting requests to avoid limitations.
