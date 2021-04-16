@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst | Senior Mechanical Engineer
   <br><br>
-  <a href="https://www.linkedin.com/in/cgrace2/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cgrace2">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
 # your Google Analytics tracking ID here
