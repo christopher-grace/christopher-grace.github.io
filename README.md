@@ -41,6 +41,6 @@
 </a>
 </kbd>
 
-[Link on Tableu Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)
+[Link to Tableu Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)
 - Evaluated the efficiency of the of each fire station in the San Francisco Fire Department.
 - Created a visually compelling story by assessing response times of each station from original dataset of over 550k records.
