@@ -1,7 +1,7 @@
 # Portfolio
-&nbsp  
 
-#### Ipswich Electric Light Department 
+
+#### Identifying Electric Vehicle Charging on Residential Power Grid
 ---
 Python - Link
 -	Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.  Goal of identifying and changing behavior.
