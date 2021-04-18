@@ -6,4 +6,6 @@ description: >
   <a href="https://www.linkedin.com/in/cgrace2">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
-# Google Analytics tracking ID here
+
+# Google Analytics
+google_analytics: G-NYR7X99283
