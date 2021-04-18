@@ -3,7 +3,15 @@
 
 #### Identifying Electric Vehicle Charging on Residential Power Grid
 ---
-Python - Link
+<kbd>
+<a href="https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
+<img src="images/EV_Charge_Capture.png"
+   alt="EV Charging Image"
+   height="auto" width="700">
+</a>
+</kbd>
+
+[Link to GitHub](https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb)
 -	Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.  Goal of identifying and changing behavior.
 
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
@@ -16,7 +24,7 @@ Python - Link
 </a>
 </kbd>
 
-[Link on IBM Watson](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9784097b-bd56-4948-b996-e6067ff7b866/view?access_token=e1701b9f5fbc71fef0da09e1600440fa8f50ae745022fa09a7af98a3dc12c96c)
+[Link to IBM Watson](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9784097b-bd56-4948-b996-e6067ff7b866/view?access_token=e1701b9f5fbc71fef0da09e1600440fa8f50ae745022fa09a7af98a3dc12c96c)
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebooks.
    - Extracted data using API and by segmenting requests to avoid limitations.
    - Plotted data with Seaborn and Matplotlib.
