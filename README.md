@@ -12,7 +12,9 @@
 </kbd>
 
 [Link to Jupyter Notebook on GitHub](https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb)
-- Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.  - Goal of identifying and changing behavior.
+- Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.
+- Data was extracted from individuals files and put into a Pandas dataframe.  Statistics for 3 criteria were collected to determine how likely each house had an electric vehicle.
+- Goal of identifying and changing behavior.
 
 ---
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
@@ -43,5 +45,5 @@
 </kbd>
 
 [Link to Tableu Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)
-- Evaluated the efficiency of the of each fire station in the San Francisco Fire Department.
-- Created a visually compelling story by assessing response times of each station from original dataset of over 550k records.
+- Evaluated the efficiency of each fire station in the San Francisco Fire Department.
+- Created a visually compelling Tableau story by assessing response times of each station from original dataset of over 550k records.
