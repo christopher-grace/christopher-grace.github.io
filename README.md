@@ -1,6 +1,5 @@
 # Portfolio
 
-
 ---
 #### Identifying Electric Vehicle Charging on Residential Power Grid
 
