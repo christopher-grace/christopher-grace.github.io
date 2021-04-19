@@ -31,7 +31,7 @@
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebook.
 - Extracted data using API and by segmenting requests to avoid limitations.
 - Plotted data with Seaborn and Matplotlib.
-- Determined ENE and E wind directions have a positive correlation with respect to predicted height.  A 20 mph sustained wind from the ENE or E will cause about a 2 ft increase in sea level.
+- Determined east-northeast and east wind directions have a positive correlation with respect to predicted height.  A 20 mph sustained wind from the ENE or E will cause about a 2 ft increase in sea level.
 
 ---
 #### San Francisco Fire Department Assessment
