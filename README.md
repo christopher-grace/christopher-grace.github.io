@@ -29,9 +29,9 @@
 
 [Link to Jupyter Notebook on GitHub](https://github.com/OceanOdyssey/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb)
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebooks.
-   - Extracted data using API and by segmenting requests to avoid limitations.
-   - Plotted data with Seaborn and Matplotlib.
-   - Determined ENE and E wind directions have a positive correlation with respect to predicted height.  A 20 mph sustained wind from the ENE or E will cause about a 2 ft increase in sea level.
+- Extracted data using API and by segmenting requests to avoid limitations.
+- Plotted data with Seaborn and Matplotlib.
+- Determined ENE and E wind directions have a positive correlation with respect to predicted height.  A 20 mph sustained wind from the ENE or E will cause about a 2 ft increase in sea level.
 
 ---
 #### San Francisco Fire Department Assessment
