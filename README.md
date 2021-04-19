@@ -45,6 +45,6 @@
 </kbd>
 
 [Link to Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
-[Link to PDF of Tableau Presentation on Onedrive (better for smaller screens)](https://1drv.ms/b/s!AuNXq-U_r0X-iGG3sQ2I6Flr3Um-?e=14zaIJ)
+[Link to non-interactive PDF on Onedrive (better for smaller screens)](https://1drv.ms/b/s!AuNXq-U_r0X-iGG3sQ2I6Flr3Um-?e=14zaIJ)
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
 - Created a visually compelling Tableau story by assessing response times of each station from original dataset of over 550k records.
