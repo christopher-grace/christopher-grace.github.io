@@ -6,7 +6,7 @@
 <kbd>
 <a href="https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
 <img src="images/Housing Search in Massachusetts Supplemented by Foursquare Venue Data.png"
-   alt="EV Charging Image"
+   alt="Housing Search in Massachusetts"
    height="auto" width="700">
 </a>
 </kbd>
@@ -68,11 +68,12 @@
 
 <kbd>
 <a href=https://public.tableau.com/profile/chrisg#!>
-<img src="images/SF-Fire-Slide-2.png"
+<img src="images/Tableau Public.png"
    alt="Tableau Public"
    height="auto" width="700">
 </a>
 </kbd>
 
 [Link to Tableau Public](https://public.tableau.com/profile/chrisg#!)  
-- Contribute to the Makeover Monday project to revisualize interesting datasets.  These are captured on Tableau Public.
+- Participate in the Makeover Monday project to revisualize interesting datasets.
+- Other projects from online studies also captured.
