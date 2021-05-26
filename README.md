@@ -1,6 +1,21 @@
 # Portfolio
 
 ---
+#### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
+
+<kbd>
+<a href="https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
+<img src="images/Housing Search in Massachusetts Supplemented by Foursquare Venue Data.png"
+   alt="EV Charging Image"
+   height="auto" width="700">
+</a>
+</kbd>
+
+[Link to PDF of Report](https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)
+[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/472ba36fe137e3633e573fe29e37dd2a775aa3eb/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)
+- Leveraged Redfin and Foursquare APIs to create a method of recommending homes which fit both client house and neighborhood amenity criteria.
+- Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
+
 #### Identifying Electric Vehicle Charging on Residential Power Grid
 
 <kbd>
@@ -44,7 +59,20 @@
 </a>
 </kbd>
 
-[Link to Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
+[Link to Presentation on Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
 [Link to non-interactive PDF (better for smaller screens)](https://docs.google.com/viewer?url=https://github.com/OceanOdyssey/Default/raw/master/San%20Francisco%20Fire%20Department%20Assessment.pdf)
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
 - Created a visually compelling Tableau story by assessing response times of each station from original dataset of over 550k records.
+
+#### Tableau Public
+
+<kbd>
+<a href=https://public.tableau.com/profile/chrisg#!>
+<img src="images/SF-Fire-Slide-2.png"
+   alt="Tableau Public"
+   height="auto" width="700">
+</a>
+</kbd>
+
+[Link to Tableau Public](https://public.tableau.com/profile/chrisg#!)  
+- Contribute to the Makeover Monday project to revisualize interesting datasets.  These are captured on Tableau Public.
