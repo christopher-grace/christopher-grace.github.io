@@ -4,8 +4,8 @@
 #### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
 
 <kbd>
-<a href="https://github.com/OceanOdyssey/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
-<img src="images/Housing Search in Massachusetts Supplemented by Foursquare Venue Data.png"
+<a href="https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/472ba36fe137e3633e573fe29e37dd2a775aa3eb/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb">  
+<img src="images/Housing Search in Massachusetts Supplemented by Foursquare Venue Data.PNG"
    alt="Housing Search in Massachusetts"
    height="auto" width="700">
 </a>
