@@ -11,8 +11,8 @@
 </a>
 </kbd>
 
-[Link to PDF of Report](https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)
-[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/472ba36fe137e3633e573fe29e37dd2a775aa3eb/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)
+[Link to PDF of Report](https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)  
+[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/472ba36fe137e3633e573fe29e37dd2a775aa3eb/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)  
 - Leveraged Redfin and Foursquare APIs to create a method of recommending homes which fit both client house and neighborhood amenity criteria.
 - Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
 
