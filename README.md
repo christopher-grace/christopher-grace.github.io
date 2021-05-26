@@ -68,7 +68,7 @@
 #### Tableau Public
 
 <kbd>
-<a href=https://public.tableau.com/profile/chrisg#!>
+<a href="https://public.tableau.com/profile/chrisg#!">
 <img src="images/Tableau_Public.PNG"
    alt="Tableau Public"
    height="auto" width="700">
