@@ -31,6 +31,7 @@
 - Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.
 - Data was extracted from individual files and loaded into a Pandas DataFrame.  Statistics for three criteria were collected to determine how likely each residence had an electric vehicle.
 - Goal of identifying and changing behavior through the use of future power company incentives.
+- Machine Learning Addendum: Exploring classifying meters through grouping with K-means Clustering and K-nearest Neighbor Classification.
 
 ---
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
