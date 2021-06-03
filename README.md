@@ -4,7 +4,7 @@
 #### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
 
 <kbd>
-<a href="https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/79affdf05d02af84c4729b8e2b0e9890e37a53f1/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb">  
+<a href="https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf">  
 <img src="images/Housing_Search_MA.PNG"
    alt="Housing Search in Massachusetts"
    height="auto" width="700">
