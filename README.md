@@ -1,22 +1,6 @@
 # Portfolio
 
 ---
-#### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
-
-<kbd>
-<a href="https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf">  
-<img src="images/Housing_Search_MA.PNG"
-   alt="Housing Search in Massachusetts"
-   height="auto" width="700">
-</a>
-</kbd>
-
-[Link to PDF of Report](https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)  
-[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/79affdf05d02af84c4729b8e2b0e9890e37a53f1/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)  
-[Link to GitHub Repository](https://github.com/OceanOdyssey/Coursera_Capstone)
-- Leveraged Redfin and Foursquare APIs to create a method of recommending homes which fit both client house and neighborhood amenity criteria.
-- Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
-
 #### Identifying Electric Vehicle Charging on Residential Power Grid
 
 <kbd>
@@ -32,6 +16,23 @@
 - Data was extracted from individual files and loaded into a Pandas DataFrame.  Statistics for three criteria were collected to determine how likely each residence had an electric vehicle.
 - Goal of identifying and changing behavior through the use of future power company incentives.
 - Machine Learning Addendum: Exploring classifying meters through grouping with K-means Clustering and K-nearest Neighbor Classification.
+
+---
+#### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
+
+<kbd>
+<a href="https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf">  
+<img src="images/Housing_Search_MA.PNG"
+   alt="Housing Search in Massachusetts"
+   height="auto" width="700">
+</a>
+</kbd>
+
+[Link to PDF of Report](https://github.com/OceanOdyssey/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)  
+[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/OceanOdyssey/Coursera_Capstone/blob/79affdf05d02af84c4729b8e2b0e9890e37a53f1/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)  
+[Link to GitHub Repository](https://github.com/OceanOdyssey/Coursera_Capstone)
+- Leveraged Redfin and Foursquare APIs to create a method of recommending homes which fit both client house and neighborhood amenity criteria.
+- Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
 
 ---
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
@@ -66,6 +67,7 @@
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
 - Created a visually compelling Tableau story by assessing response times of each station from original dataset of over 550k records.
 
+---
 #### Tableau Public
 
 <kbd>
