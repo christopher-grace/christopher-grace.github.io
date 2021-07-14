@@ -72,12 +72,12 @@
 
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!">
-<img src="images/Tableau_Public.PNG"
+<img src="images/20210713_tableau_public.PNG"
    alt="Tableau Public"
    height="auto" width="700">
 </a>
 </kbd>
 
 [Link to Tableau Public](https://public.tableau.com/profile/chrisg#!)  
-- Participate in the Makeover Monday project to revisualize interesting datasets.
+- Participate in the Makeover Monday project to create more effective visualizations using community data.
 - Other projects from online studies also captured.
