@@ -72,7 +72,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!">
-<img src="images/20210713_tableau_public.PNG"
+<img src="images/Tableau_Public.PNG"
    alt="Tableau Public"
    height="auto" width="700">
 </a>
