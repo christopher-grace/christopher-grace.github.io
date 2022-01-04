@@ -62,7 +62,7 @@
 </a>
 </kbd>
 
-[Link to Simple Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard) 
+[Link to Simple Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard)  
 [Link to Presentation on Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
 [Link to non-interactive of Presentation PDF (better for smaller screens)](https://docs.google.com/viewer?url=https://github.com/christopher-grace/Default/raw/master/San%20Francisco%20Fire%20Department%20Assessment.pdf)  
  
