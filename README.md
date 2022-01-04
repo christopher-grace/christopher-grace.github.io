@@ -55,16 +55,17 @@
 #### San Francisco Fire Department Assessment
 
 <kbd>
-<a href="https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment">
-<img src="images/SF-Fire-Slide-2.png"
-   alt="San Francisco Fire Department Slide Preview"
+<a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard">
+<img src="images/San Francisco Fire Department Dashboard.png"
+   alt="San Francisco Fire Department Dashboard Preview"
    height="auto" width="700">
 </a>
 </kbd>
 
+[Link to Simple Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard) 
 [Link to Presentation on Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
-[Link to non-interactive PDF (better for smaller screens)](https://docs.google.com/viewer?url=https://github.com/christopher-grace/Default/raw/master/San%20Francisco%20Fire%20Department%20Assessment.pdf)  
-[Link to Simple Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard)  
+[Link to non-interactive of Presentation PDF (better for smaller screens)](https://docs.google.com/viewer?url=https://github.com/christopher-grace/Default/raw/master/San%20Francisco%20Fire%20Department%20Assessment.pdf)  
+ 
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
 - Created a visually compelling Tableau story and dashboard by assessing response times of each station from original dataset of over 550k records.
 
