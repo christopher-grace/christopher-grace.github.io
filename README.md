@@ -4,14 +4,14 @@
 #### Identifying Electric Vehicle Charging on Residential Power Grid
 
 <kbd>
-<a href="https://github.com/christopher-grace/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
+<a href="https://nbviewer.org/github/christopher-grace/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
 <img src="images/EV_Charge_Capture.png"
    alt="EV Charging Image"
    height="auto" width="700">
 </a>
 </kbd>
 
-[Link to Jupyter Notebook on GitHub](https://github.com/christopher-grace/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb)
+[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.org/github/christopher-grace/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb)  
 - Analyzed and visualized individual and aggregated customer consumption data to identify grid inefficiencies such as charging electric vehicles during periods of peak demand.
 - Data was extracted from individual files and loaded into a Pandas DataFrame.  Statistics for three criteria were collected to determine how likely each residence had an electric vehicle.
 - Goal of identifying and changing behavior through the use of future power company incentives.
