@@ -30,7 +30,6 @@
 
 [Link to PDF of Report](https://github.com/christopher-grace/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf)  
 [Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.jupyter.org/github/christopher-grace/Coursera_Capstone/blob/79affdf05d02af84c4729b8e2b0e9890e37a53f1/Capstone_Course_Notebook-Cleaned%20Credentials.ipynb)  
-[Link to GitHub Repository](https://github.com/christopher-grace/Coursera_Capstone)
 - Leveraged Redfin and Foursquare APIs to create a method of recommending homes which fit both client house and neighborhood amenity criteria.
 - Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
 
@@ -38,14 +37,14 @@
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
 
 <kbd>
-<a href="https://github.com/christopher-grace/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb">
+<a href="https://nbviewer.org/github/christopher-grace/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb">
 <img src="images/NOAA-Capture.png"
    alt="NOAA Tidal Prediction image"
    height="auto" width="700">
 </a>
 </kbd>
 
-[Link to Jupyter Notebook on GitHub](https://github.com/christopher-grace/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb)
+[Link to Jupyter Notebook in Jupyter NBViewer](https://nbviewer.org/github/christopher-grace/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb)
 - Assessed if wind direction and velocity caused a correlated shift to predicted tide levels in Wells, ME using Pandas and Jupyter Notebook.
 - Extracted data using API and by segmenting requests to avoid limitations.
 - Plotted data with Seaborn and Matplotlib.
