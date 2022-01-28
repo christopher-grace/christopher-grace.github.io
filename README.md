@@ -6,7 +6,7 @@
 <a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard">
 <img src="images/San Francisco Fire Department Dashboard.png"
    alt="San Francisco Fire Department Dashboard Preview"
-   height="auto" width="700">
+   height="auto" width="900">
 </a>
 </kbd>
 
@@ -24,7 +24,7 @@
 <a href="https://public.tableau.com/profile/chrisg#!">
 <img src="images/Tableau_Public.PNG"
    alt="Tableau Public"
-   height="auto" width="700">
+   height="auto" width="900">
 </a>
 </kbd>
 
@@ -39,7 +39,7 @@
 <a href="https://nbviewer.org/github/christopher-grace/Default/blob/master/Identifying_EV_Charging_on_Residential_Power_Grid.ipynb">
 <img src="images/EV_Charge_Capture.png"
    alt="EV Charging Image"
-   height="auto" width="700">
+   height="auto" width="900">
 </a>
 </kbd>
 
@@ -56,7 +56,7 @@
 <a href="https://github.com/christopher-grace/Coursera_Capstone/blob/main/Presentations-Reports/Report%2C%20Housing%20Search%20in%20Massachusetts%20Supplemented%20by%20Foursquare%20Venue%20Data.pdf">  
 <img src="images/Housing_Search_MA.PNG"
    alt="Housing Search in Massachusetts"
-   height="auto" width="700">
+   height="auto" width="900">
 </a>
 </kbd>
 
@@ -72,7 +72,7 @@
 <a href="https://nbviewer.org/github/christopher-grace/Default/blob/master/NOAA_Tide_Prediction_Shift.ipynb">
 <img src="images/NOAA-Capture.png"
    alt="NOAA Tidal Prediction image"
-   height="auto" width="700">
+   height="auto" width="900">
 </a>
 </kbd>
 
