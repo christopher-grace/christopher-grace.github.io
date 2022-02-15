@@ -12,4 +12,5 @@ theme: jekyll-theme-minimal
 
 # Google Analytics
 google_analytics: UA-194794276-1
+ga('set', 'location', 'http://example.com/');
 
