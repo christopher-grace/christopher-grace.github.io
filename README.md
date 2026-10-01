@@ -4,10 +4,10 @@
 #### San Francisco Fire Department Assessment
 
 <kbd>
-<a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard">
+<a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard-Revisited">
 <img src="San Francisco Fire Dept Dashboard - Revisited.png"
    alt="San Francisco Fire Department Dashboard Preview"
-   height="auto" width="900">
+   height="auto" width="800">
 </a>
 </kbd>
 
