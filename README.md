@@ -22,7 +22,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!">
-<img src="images/Tableau_Public.PNG"
+<img src="images/Tableau Public Screenshot 2026-10-01.PNG"
    alt="Tableau Public"
    height="auto" width="900">
 </a>
