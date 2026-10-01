@@ -5,7 +5,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard-Revisited">
-<img src="San Francisco Fire Dept Dashboard - Revisited.png"
+<img src="San_Francisco_Fire_Dept_Dashboard_Revisited.PNG"
    alt="San Francisco Fire Department Dashboard Preview"
    height="auto" width="800">
 </a>
@@ -22,7 +22,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!">
-<img src="images/Tableau Public Screenshot 2026-10-01.PNG"
+<img src="images/Tableau_Public_Screenshot_2026-10-01.PNG"
    alt="Tableau Public"
    height="auto" width="900">
 </a>
