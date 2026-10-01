@@ -7,7 +7,7 @@
 <a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard-Revisited">
 <img src="images/San_Francisco_Fire_Dept_Dashboard_Revisited.png"
    alt="San Francisco Fire Department Dashboard Preview"
-   height="auto" width="800">
+   height="auto" width="900">
 </a>
 </kbd>
 
@@ -66,13 +66,3 @@
 - Project returns a list of suitable homes as well as a Folium map of each suitable neighborhood with nearest required amenities shown.
 
 ---
-#### LEGACY: San Francisco Fire Department Assessment
-
-<kbd>
-<a href="https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard">
-<img src="images/San Francisco Fire Department Dashboard.png"
-   alt="San Francisco Fire Department Dashboard Preview"
-   height="auto" width="900">
-</a>
-</kbd>
-
