@@ -1,6 +1,7 @@
 # Portfolio
 
 ---
+
 #### San Francisco Fire Department Assessment
 
 <kbd>
@@ -14,10 +15,11 @@
 [Link to Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard-Revisited)  
  
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
-- Consists of 3 dashboard views:  Summary, Detail View and Exception Report.  Navigation through icons on left hand side.
-- Allows user at the station level to assess their response time relative to top performing stations, by year/time, and with respect to distance from the station. 
+- Consists of 3 dashboard views:  Summary, Detail View and Exception Report.  Navigation through icons on toolbar.
+- Allows user at the station level to assess their response time relative to top performing stations. 
 
 ---
+
 #### Tableau Public
 
 <kbd>
@@ -33,6 +35,7 @@
 - Other projects of interest also captured.
 
 ---
+
 #### NOAA Tidal Prediction Shift Based on Wind Speed and Direction
 
 <kbd>
@@ -50,6 +53,7 @@
 - Determined east-northeast and east wind directions have a positive correlation with respect to predicted height.  A 20 mph sustained wind from the ENE or E will cause about a 2 ft increase in sea level.
 
 ---
+
 #### Housing Search in Massachusetts Supplemented by Foursquare Venue Data
 
 <kbd>
