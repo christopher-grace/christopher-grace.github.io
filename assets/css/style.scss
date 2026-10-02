@@ -20,4 +20,18 @@ section {
   max-width: 100%;
 }
 
+.logo {
+  /* Default size for development */
+  img {
+    max-height: 80px;
+    width: auto;
+  }
+
+  /* Override size for production */
+  &.production img {
+    max-height: 40px; 
+  }
+}
+
+
 JEKYLL_ENV=production
