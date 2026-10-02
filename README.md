@@ -12,10 +12,10 @@
 </kbd>
 
 [Link to Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/SanFranciscoFireDepartmentDashboard/SanFranciscoFireDepartmentDashboard-Revisited)  
-[Link to Presentation on Tableau Public](https://public.tableau.com/profile/chrisg#!/vizhome/SanFranciscoFireDepartmentAssessment/SanFranciscoFireDepartmentAssessment)  
  
 - Evaluated the efficiency of each fire station in the San Francisco Fire Department.
-- Created a visually compelling Tableau story and dashboard by assessing response times of each station from original dataset of over 550k records.
+- Consists of 3 dashboard views:  Summary, Detail View and Exception Report.  Navigation through icons on left hand side.
+- Allows user at the station level to assess their response time relative to top performing stations, by year/time, and with respect to distance from the station. 
 
 ---
 #### Tableau Public
