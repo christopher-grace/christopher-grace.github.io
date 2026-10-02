@@ -23,13 +23,13 @@ section {
 .logo {
   /* Default size for development */
   img {
-    max-height: 80px;
+    max-height: 60px;
     width: auto;
   }
 
   /* Override size for production */
   &.production img {
-    max-height: 40px; 
+    max-height: 60px; 
   }
 }
 
