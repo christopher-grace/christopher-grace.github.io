@@ -6,7 +6,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/app/profile/chrisg/viz/ITDash2026/Summary">
-<img src="ESS-QL_Dashboard.png"
+<img src="images/ESS-QL_Dashboard.png"
    alt="IT Support Ticket Performance Dashboard"
    height="auto" width="900">
 </a>
