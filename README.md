@@ -2,6 +2,22 @@
 
 ---
 
+#### IT Support Ticket Performance Dashboard
+
+<kbd>
+<a href="https://public.tableau.com/app/profile/chrisg/viz/ITDash2026/Summary">
+<img src="ESS-QL_Dashboard.png"
+   alt="IT Support Ticket Performance Dashboard"
+   height="auto" width="900">
+</a>
+</kbd>
+
+[Link to Dashboard on Tableau Public](https://public.tableau.com/app/profile/chrisg/viz/ITDash2026/Summary)  
+ 
+- Sample business tracking dashboard to show performance for support tickets.
+- Consists of 3 dashboard views:  Summary, Detail View and Exception Report.  Navigation through icons on toolbar.
+---
+
 #### San Francisco Fire Department Assessment
 
 <kbd>
@@ -24,7 +40,7 @@
 
 <kbd>
 <a href="https://public.tableau.com/profile/chrisg#!">
-<img src="images/Tableau_Public_Screenshot_2026-10-02.png"
+<img src="images/Tableau_Public_Screenshot_2026-10-19.png"
    alt="Tableau Public"
    height="auto" width="900">
 </a>
